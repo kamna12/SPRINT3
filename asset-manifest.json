@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/SPRINT3/static/css/main.c5106801.chunk.css",
+    "main.js": "/SPRINT3/static/js/main.ab66d846.chunk.js",
+    "main.js.map": "/SPRINT3/static/js/main.ab66d846.chunk.js.map",
+    "runtime-main.js": "/SPRINT3/static/js/runtime-main.8e0515b8.js",
+    "runtime-main.js.map": "/SPRINT3/static/js/runtime-main.8e0515b8.js.map",
+    "static/css/2.29c2f1c0.chunk.css": "/SPRINT3/static/css/2.29c2f1c0.chunk.css",
+    "static/js/2.3e120b10.chunk.js": "/SPRINT3/static/js/2.3e120b10.chunk.js",
+    "static/js/2.3e120b10.chunk.js.map": "/SPRINT3/static/js/2.3e120b10.chunk.js.map",
+    "static/js/3.209ea84a.chunk.js": "/SPRINT3/static/js/3.209ea84a.chunk.js",
+    "static/js/3.209ea84a.chunk.js.map": "/SPRINT3/static/js/3.209ea84a.chunk.js.map",
+    "index.html": "/SPRINT3/index.html",
+    "static/css/2.29c2f1c0.chunk.css.map": "/SPRINT3/static/css/2.29c2f1c0.chunk.css.map",
+    "static/css/main.c5106801.chunk.css.map": "/SPRINT3/static/css/main.c5106801.chunk.css.map",
+    "static/js/2.3e120b10.chunk.js.LICENSE.txt": "/SPRINT3/static/js/2.3e120b10.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8e0515b8.js",
+    "static/css/2.29c2f1c0.chunk.css",
+    "static/js/2.3e120b10.chunk.js",
+    "static/css/main.c5106801.chunk.css",
+    "static/js/main.ab66d846.chunk.js"
+  ]
+}
